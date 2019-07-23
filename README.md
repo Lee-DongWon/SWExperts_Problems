@@ -1,1 +1,1 @@
-# Source code of SWExperts_Problems in https://swexpertacademy.com/main/main.do
+Source code of problems in https://swexpertacademy.com/main/main.do
